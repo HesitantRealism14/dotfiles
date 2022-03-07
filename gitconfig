@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = rachel.liu1997@outlook.com
+	name = Rachel Liu
